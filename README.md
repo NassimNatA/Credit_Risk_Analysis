@@ -31,5 +31,16 @@ The balanced accuracy scores and the precision and recall scores of all six mach
 
 **precision: 0.99, recall: 0.57, bal accuracy: 0.6449163069955265**
 
+- Balanced Random Forest Classifier
+![alt_text](https://github.com/NassimNatA/Credit_Risk_Analysis/blob/main/Screen%20Shot%202021-01-10%20at%201.44.52%20AM.png)
+
+**precision: 0.99, recall: 0.94, bal accuracy: 0.6830221521918328**
+
+- Easy Ensemble AdaBoost Classifier
+![alt_text](https://github.com/NassimNatA/Credit_Risk_Analysis/blob/main/Screen%20Shot%202021-01-10%20at%201.44.58%20AM.png)
+
+**precision: 0.99, recall: 0.94, bal accuracy: 0.9316600714093861** 
+
+
 
 Summary: Summarize the results of the machine learning models, and include a recommendation on the model to use, if any. If you do not recommend any of the models, justify your reasoning.
