@@ -45,4 +45,6 @@ The balanced accuracy scores and the precision and recall scores of all six mach
 
 
 
-Summary: Summarize the results of the machine learning models, and include a recommendation on the model to use, if any. If you do not recommend any of the models, justify your reasoning.
+## Summary
+
+The results from the 6 machine learning models above show that Easy Ensemble AdaBoost Classifier shows the highest balance accuracy score of 93.1%. This model is recommended for using for further credit risk analysis due to having a high precision score that matches the other machine learning models and a recall score higher than most of the other models as well. Likewise, the Undersampling model is not recommended due to having the lowest bal accuracy score of 54.4% that would not provide sufficient reproducibility for credit risk analysis. 
